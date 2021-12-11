@@ -1,0 +1,24 @@
+body{
+    padding: 130px;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(https://i.postimg.cc/YjcJg24M/aa.jpg);
+	height: 100vh;
+	-webkit-background-size: cover;
+	background-size: cover;
+    
+	background-position: center center;
+	position: relative;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.signup-box{
+    
+    width: 360px;
+    height: 360px;
+    margin: auto;
+     border-radius: 3px;
+
+    background-color: white;
+    align-items: center;
+
+
+}
